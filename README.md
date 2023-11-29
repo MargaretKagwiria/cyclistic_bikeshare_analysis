@@ -13,7 +13,7 @@ The project explores the Cyclistic bikeshare dataset to uncover insights and tre
 - `dataset.zip`: Raw monthly csv files used for the analysis.
 - `combined_raw_dataset.csv`: Combined dataset for 2022 from the monthly csv files.
 - `manipulated_dataset.csv`: combined_raw_dataset.csv that has been cleaned and manipulated using R.
-- `Cyclistic Bikeshare Analysis Project.twbx`: Contains the visualisations and the findings of the data analysis.
+- `Cyclistic Bikeshare Analysis Project.twbx`: Contains the visualisations and the findings of the data analysis. The Tableau workbook is too big to post here. You can view the visualizations and findings on this link https://public.tableau.com/app/profile/margaret.kagwiria/viz/CyclisticBikeshareAnalysisProject/CyclisticBikeshareAnalysis
 
 ## Analysis Process
 
