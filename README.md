@@ -36,7 +36,7 @@ The analysis was conducted using RStudio (version 2023.06.0+421) and relied on s
 
 ## Results
 
-The main findings of the analysis are outlined in the T ``.
+The main findings of the analysis are outlined in the Tableau Workbook.
 
 ## Acknowledgments
 
